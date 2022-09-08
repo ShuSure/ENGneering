@@ -43,3 +43,4 @@ K-means cluster
 •	Matplotlib and Seaborn for plotting
 ## Communication
 In addition to the slides and visuals presented, I also built a flask app to visualize my engine, LinkedIn link are also pasted.
+link:  https://protected-mesa-33792.herokuapp.com/
